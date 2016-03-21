@@ -4,3 +4,4 @@ Javadoc génerée ~warnnigs sur @parms
 Projet (fihcier .ZIP mis a jour )
 Attributions des roles
 Adrien:fait l'interface de deplacement
+CHOSISSEZ VOS TACHES POUR LE JALON 2
