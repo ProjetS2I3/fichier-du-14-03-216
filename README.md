@@ -1,7 +1,6 @@
-# fichier-du-14-03-216
-Contient :
-UML du 14/03
-fichier ZIP du projet 14/03
-//le fichier de l'UML est a ouvrir avec :
-https://www.draw.io/
-Merci de mettre en ligne la version finie du jalon1
+#fichier su 21/03/2016
+L'UML est a jour
+Javadoc génerée ~warnnigs sur @parms
+Projet (fihcier .ZIP mis a jour )
+Attributions des roles
+Adrien:fait l'interface de deplacement
