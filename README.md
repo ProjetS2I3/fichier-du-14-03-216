@@ -1,6 +1,8 @@
 #fichier du 21/03/2016
 L'UML est a jour
-    -----------JALON 1-------------------
+
+--------------JALON1 ----------------
+
 Javadoc génerée ~warnnigs sur @parms
 Projet (fihcier .ZIP mis a jour )
 Attributions des roles
