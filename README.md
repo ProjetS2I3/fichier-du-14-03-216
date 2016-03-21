@@ -5,9 +5,9 @@ L'UML est a jour
 
 Javadoc génerée ~warnnigs sur @parms
 Projet (fihcier .ZIP mis a jour )
-Attributions des roles
 
     --------------JALON2 ----------------
-Adrien:fait l'interface de deplacement
+    
+Attributions des roles : -> Adrien:fait l'interface de deplacement
 CHOSISSEZ VOS TACHES POUR LE JALON 2
 
