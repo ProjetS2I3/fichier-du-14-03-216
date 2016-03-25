@@ -1,6 +1,6 @@
 #fichier du 25/03/2016
-L'UML est a mettre a jour \n
-fichier du projet a jour
+#L'UML est a mettre a jour 
+#fichier du projet a jour
 
 --------------JALON1 ----------------
 
