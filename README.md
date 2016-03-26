@@ -13,6 +13,6 @@ Attributions des roles : -> Adrien:fait l'interface de deplacement
 CHOSISSEZ VOS TACHES POUR LE JALON 2 
 deplacements en cours de realisation
 j pense commit d'ici samedi soir dimanche quand c finni 
-
+**j'ai besoin d'aide svp **
 
 
