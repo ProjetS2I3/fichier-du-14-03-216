@@ -12,7 +12,11 @@ Projet (fihcier .ZIP mis a jour )
 Attributions des roles : -> Adrien:fait l'interface de deplacement
 CHOSISSEZ VOS TACHES POUR LE JALON 2 
 deplacements en cours de realisation
-j pense commit d'ici samedi soir dimanche quand c finni 
-**j'ai besoin d'aide svp **
+ce qui est fait :
+placement des explorateurs ,
+interface graphique pour les deplacement , 
+methode pour savoir si les deplacements sont possibles,
+methode de deplacement (qui bug ) <- besoin d 'aide ici 
+le projet a ete mis a jour !
 
 
